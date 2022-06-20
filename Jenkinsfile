@@ -9,8 +9,8 @@ pipeline {
 	        //Orchestrator Services
 	        UIPATH_ORCH_URL = "https://cloud.uipath.com/"
 	        UIPATH_ORCH_LOGICAL_NAME = "stepousvvatd"
-	        UIPATH_ORCH_TENANT_NAME = "CICD_POC"
-	        UIPATH_ORCH_FOLDER_NAME = "CICD_POC"
+	        UIPATH_ORCH_TENANT_NAME = "CICD"
+	        UIPATH_ORCH_FOLDER_NAME = "CICD"
 	    }
 	
 
